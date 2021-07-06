@@ -1,0 +1,14 @@
+{
+  "functions": {
+    "source": "functions"
+  },
+  "hosting": {
+    "site": "fireactbatukan",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

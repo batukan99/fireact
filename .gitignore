@@ -25,7 +25,6 @@ yarn-debug.log*
 yarn-error.log*
 package-lock.json
 .firebaserc
-firebase.json
 .firebase/hosting.YnVpbGQ.cache
 firestore-debug.log
 functions/.eslintrc.json

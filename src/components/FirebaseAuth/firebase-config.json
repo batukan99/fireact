@@ -1,0 +1,10 @@
+{
+    "config":{
+        "apiKey": "AIzaSyCT7Pk3avLw6AHrmiKOLUFrO-uHb6gd2kU",
+        "authDomain": "fireact-ff774.firebaseapp.com",
+        "projectId": "fireact-ff774",
+        "storageBucket": "fireact-ff774.appspot.com",
+        "messagingSenderId": "12533672067",
+        "appId": "1:12533672067:web:f38f0cfeaa0f82bf6693b6"
+    }
+}
